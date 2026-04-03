@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { PlayIcon } from "@heroicons/react/24/solid";
-import AddToWatchlistButton from "./AddToWatchListButton";
+import AddToWatchlistButton from "./AddToWatchlistButton";
 
 const AnimeCard = ({ anime }) => {
   return (

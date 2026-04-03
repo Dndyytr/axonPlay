@@ -16,7 +16,7 @@ import { addToWatchlist, removeFromWatchlist } from "../store/userSlice";
 import EpisodeList from "../features/anime/EpisodeList";
 import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
-import AddToWatchlistButton from "../features/anime/AddToWatchListButton";
+import AddToWatchlistButton from "../features/anime/AddToWatchlistButton";
 import ReviewSection from "../features/review/ReviewSection";
 
 const AnimeDetailPage = () => {
